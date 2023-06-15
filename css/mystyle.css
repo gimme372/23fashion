@@ -4,14 +4,6 @@ a, a:link {cursor:url('oncursor.cur'),auto;}
 a:hover, a:focus{cursor:url('oncursor.cur'),auto;}
 a:active{cursor:url('oncursor.cur'),auto;}
 
-td, th {
-  border: none;
-  text-align: left;
-  padding: 10px;
-  text-align: left;
-  vertical-align: top;
-  color: #ffeef1;
-}
 
 ul {
   list-style-type: none;
